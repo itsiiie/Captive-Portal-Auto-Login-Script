@@ -41,10 +41,6 @@ Automate your login process to a captive portal using Selenium WebDriver!
 - Ensure that the URL provided in the script (`driver.get()`) is correct and accessible.
 - Modify the WebDriver wait conditions and element locators as per your specific login page requirements.
 
-## 🛡 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-### Made with ❤️ by [Your Name](https://github.com/yourusername)
+### Made with ❤️ by [Shashank Singh](https://github.com/itsiiie)
