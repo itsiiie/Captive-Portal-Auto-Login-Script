@@ -12,7 +12,7 @@ Automate your login process to a captive portal using Selenium WebDriver!
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/captive-portal-login.git
+    git clone https://github.com/itsiiie/Captive-Portal-Auto-Login-Script
     cd captive-portal-login
     ```
 
