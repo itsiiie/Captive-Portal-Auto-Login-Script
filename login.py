@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-USERNAME = '12022002001045'
-PASSWORD = '143isgame'
+USERNAME = 'Enter your Username'
+PASSWORD = 'Enter your Password'
 
 # Initialize the WebDriver (for example, using Chrome)
 driver = webdriver.Chrome()  # Specify the path to chromedriver if necessary
